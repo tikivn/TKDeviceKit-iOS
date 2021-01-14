@@ -1,0 +1,22 @@
+{
+  "name": "TKDeviceKit",
+  "version": "0.1.0",
+  "summary": "A short description of TKDeviceKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Duc Nguyen/TKDeviceKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Duc Nguyen": "duc.nguyen@tiki.vn"
+  },
+  "source": {
+    "git": "https://github.com/Duc Nguyen/TKDeviceKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TKDeviceKit/Classes/**/*"
+}
