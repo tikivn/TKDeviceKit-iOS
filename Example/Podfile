@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TKDeviceKit_Example' do
+  pod 'TKDeviceKit', :path => '../'
+
+  target 'TKDeviceKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
