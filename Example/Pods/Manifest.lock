@@ -1,0 +1,16 @@
+PODS:
+  - TKDeviceKit (0.1.0)
+
+DEPENDENCIES:
+  - TKDeviceKit (from `../`)
+
+EXTERNAL SOURCES:
+  TKDeviceKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TKDeviceKit: 2d730ee2af2102fc4fc83a92f68bb9a34c9a88e3
+
+PODFILE CHECKSUM: 188bd6737f46f41f51b86d56e98c81163183d0b3
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+framework module TKDeviceKit {
+  umbrella header "TKDeviceKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
